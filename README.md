@@ -5,7 +5,7 @@
 ## 📥 التثبيت
 يمكنك تثبيت المكتبة مباشرة من GitHub:
 ```bash
-pip install git+[https://github.com/salehahmedyn-bit/removal.git](https://github.com/salehahmedyn-bit/removal.git)
+pip install git+[https://github.com/salehahmedyn-bit/removal.git]
 
 🛠️ مثال لاستخدام المكتبة
 import asyncio
