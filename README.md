@@ -17,7 +17,7 @@ async def main():
     
     # مثال لإزالة خلفية صورة
     # url = await client.remove_background("image.png")
-    print("✅ SDK Initialized Successfully!")
+        print(f"الرابط: {url}")
 
 if __name__ == "__main__":
     asyncio.run(main())
